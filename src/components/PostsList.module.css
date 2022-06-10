@@ -1,0 +1,10 @@
+.list {
+  list-style: none;
+  margin: 10%;
+  padding: 0;
+}
+
+.postListsContainer {
+  display: flex;
+  flex-direction: row;
+}
